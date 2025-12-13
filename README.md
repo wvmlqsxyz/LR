@@ -14,4 +14,4 @@
   <br>2) Jupyter Notebook
   <br>
 <br>5. Link
-  <br>1) https://www.notion.so/2501-regression-2c82bc32f71b8068a4f9d14b7a1da99f?source=copy_link
+  <br>1) [https://www.notion.so/2501-regression-2c82bc32f71b8068a4f9d14b7a1da99f?source=copy_link](https://www.notion.so/2501-regression-2c82bc32f71b8068a4f9d14b7a1da99f?source=copy_link)
