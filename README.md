@@ -8,7 +8,6 @@
 <br>3. Key Findings
   <br>1) 평일 수익성 Base 우위 증명: 주말 (기준) 대비 평일 테이블 기본 매출 이 11,310원 더 높음 (P-value 0.021)
   <br>2) 수익성 저해 요인 발견: 수량×중고생 상호작용 항 분석 결과, 중고생 유입 시 수량당 매출 효율이 973원 감소 함을 정량화 (P-value 0.000)
-  <br><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a81255eb-a307-4df8-969f-8987b097bd78" />
   <br>
 <br>4. Technical Stack
   <br>1) Python (Pandas, Statsmodels, Matplotlib)
