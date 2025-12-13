@@ -1,1 +1,14 @@
-항목문구강조할 내용Project Title매출 영향 요인 정량화를 통한 $\text{P\&L}$ 효율 극대화 $\text{OLS}$ 회귀분석핵심 방법론과 목표를 명확히 제시Analysis Overview* "총 매출 $\text{Volume}$에 가려진 **$\text{거래당}$ $\text{순수}$ $\text{수익성}$ ($\text{Base}$ $\text{Revenue}$)*을 $\text{OLS}$ 회귀분석으로 $\text{정량화}$하고, $\text{수익성}$ $\text{중심}$ $\text{전략}$을 $\text{수립}$." * $\text{데이터}$ $\text{특성}$ $\text{고려}$ $\text{시}$ $\text{발생}$ $\text{가능성이}$ $\text{높은}$ $\text{다중공선성}$ ($\text{Multicollinearity}$) $\text{문제를}$ $\text{해결}$ $\text{하고}$ $\text{모델}$ $\text{안정성}$ $\text{확보}$ $\text{과정}$ $\text{포함}$.문제 정의 능력과 기술적 어려움 극복 강조Key Findings (Code-based)* $\text{평일}$ $\text{수익성}$ $\text{Base}$ $\text{우위}$ $\text{증명}$: $\text{주말}$ $\text{(기준)}$ $\text{대비}$ $\text{평일}$ $\text{테이블}$ $\text{기본}$ $\text{매출}$ $\text{이}$ $\text{11,310원}$ $\text{더}$ $\text{높음}$ ($\text{P-value}$ $\text{0.021}$).* * $\text{수익성}$ $\text{저해}$ $\text{요인}$ $\text{발견}$: $\text{수량} \times \text{중고생}$ $\text{상호작용}$ $\text{항}$ $\text{분석}$ $\text{결과}$, $\text{중고생}$ $\text{유입}$ $\text{시}$ $\text{수량당}$ $\text{매출}$ $\text{효율이}$ $\text{973원}$ $\text{감소}$ $\text{함을}$ $\text{정량화}$ ($\text{P-value}$ $\text{0.000}$).$\text{R}^2$ $\text{0.975}$ $\text{OLS}$ $\text{Summary}$ $\text{Table}$ $\text{첨부}$Technical Stack$\text{Python}$ ($\text{Pandas}$, $\text{Statsmodels}$, $\text{Matplotlib}$), $\text{Jupyter}$ $\text{Notebook}$사용된 기술 명시Link[Strategic $\text{Insights}$ $\text{in}$ $\text{Notion}$](노션 $\text{Link}$ $\text{주소}$) / [$\text{Raw}$ $\text{Code}$ $\text{File}$]($\text{Code}$ $\text{File}$ $\text{주소}$)포트폴리오 간의 연결고리 확보
+Project Title
+  매출 영향 요인 정량화를 통한 P&L 효율 극대화 OLS 회귀분석
+Analysis Overview
+  총 매출에 가려진 거래당 순수 수익성 (Base Revenue)을 OLS 회귀분석으로 정량화하고, 수익성 중심 전략을 수립
+  데이터 특성 고려 시 발생 가능성이 높은 다중공선성 (Multicollinearity) 문제를 해결 하고 모델 안정성 확보 과정 포함
+Key Findings
+  평일 수익성 Base 우위 증명: 주말 (기준) 대비 평일 테이블 기본 매출 이 11,310원 더 높음 (P-value 0.021)
+  수익성 저해 요인 발견: 수량×중고생 상호작용 항 분석 결과, 중고생 유입 시 수량당 매출 효율이 973원 감소 함을 정량화 (P-value 0.000)
+  <img width="1051" height="829" alt="image" src="https://github.com/user-attachments/assets/a81255eb-a307-4df8-969f-8987b097bd78" />
+Technical Stack
+  Python (Pandas, Statsmodels, Matplotlib)
+  Jupyter Notebook
+Link
+  https://www.notion.so/2501-regression-2c82bc32f71b8068a4f9d14b7a1da99f?source=copy_link
